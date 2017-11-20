@@ -30,6 +30,8 @@ var convertRule = {
 };
 
 
+
+var result = jsonConvert(dataFromAjax, convertRule);
 /*
  * the json is converted to:
  * {
@@ -38,7 +40,6 @@ var convertRule = {
  *   author: 'x'
  * }
  */
-var result = jsonConvert(dataFromAjax, convertRule);
 
 ```
 

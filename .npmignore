@@ -13,6 +13,7 @@ docs/
 .eslintrc.js
 mocha-webpack.opts
 .eslintrc.js
+package-lock.json
 
 npm-debug.log*
 yarn-debug.log*
