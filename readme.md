@@ -1,6 +1,6 @@
 # json-convert
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
-[![Github All Releases](https://img.shields.io/github/downloads/lyc923/yc-task-manager/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/lyc923/json-convert/total.svg)]()
 
 Convert json to json you want
 
