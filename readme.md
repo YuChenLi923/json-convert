@@ -15,7 +15,7 @@ npm install json-convert --save
 convert json
 
 ```
-var jsonConver = require('json-conver');
+var jsonConvert = require('json-convert');
 var dataFromAjax = {
     title: 2,
     article: {
